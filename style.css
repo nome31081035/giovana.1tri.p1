@@ -14,7 +14,7 @@
 
 .cabecalho-imagem{
     border-radius: 10%;
-    width: 50%;
+    width: 30%;
 }
 
 .cabecalho-lista-item{
@@ -24,11 +24,22 @@
 }
 
 .confeitaria-imagem{
-    width: 25%;
+    width: 15%;
 }
 
 .confeitaria{
-    background-image: linear-gradient(rgb(47, 128, 199),rgb(226, 194, 88));
-    color: rgb(243, 140, 229);
+    background-image: linear-gradient(rgb(209, 159, 112),rgb(247, 171, 101),rgb(247, 150, 59));
+    color: rgb(41, 20, 4);
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.confeitaria-div-conteudo{
+    width: 35%;
+}
+
+.confeitaria-titulo{
+    padding: 24px 0;
 }
