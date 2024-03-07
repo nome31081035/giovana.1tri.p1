@@ -4,7 +4,7 @@
 }
 
 .cabecalho{
-    background-image: linear-gradient(rgb(255, 160, 227), rgb(248, 193, 232));
+    background-image: linear-gradient(rgb(255, 160, 227), rgb(248, 193, 232), rgb(248, 210, 161));
     color:rgb(41, 20, 4);
     display: flex;
     justify-content: space-around;
@@ -28,7 +28,7 @@
 }
 
 .confeitaria{
-    background-image: linear-gradient(rgb(248, 193, 232), rgb(248, 210, 161),rgb(235, 188, 126),rgb(255, 160, 227));
+    background-image: linear-gradient(rgb(248, 210, 161),rgb(248, 210, 161),rgb(248, 193, 232),rgb(255, 160, 227));
     color: rgb(41, 20, 4);
     display: flex;
     justify-content: center;
