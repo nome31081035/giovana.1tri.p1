@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho{
     background-image: linear-gradient(rgb(255, 160, 227), rgb(248, 193, 232), rgb(248, 210, 161));
     color:rgb(41, 20, 4);
