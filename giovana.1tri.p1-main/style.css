@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho{
+    background-image: linear-gradient(rgb(255, 160, 227), rgb(248, 193, 232), rgb(248, 210, 161));
+    color:rgb(41, 20, 4);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    border-radius: 10%;
+    width: 30%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.confeitaria-imagem{
+    width: 15%;
+}
+
+.confeitaria{
+    background-image: linear-gradient(rgb(248, 210, 161),rgb(248, 210, 161),rgb(248, 193, 232),rgb(255, 160, 227));
+    color: rgb(41, 20, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.confeitaria-div-conteudo{
+    width: 35%;
+}
+
+.confeitaria-titulo{
+    padding: 24px 0;
+}
+
+.produtos-imagem{
+    width: 200px;
+}
+
+.produto-icone{
+    width: 30px;
+}
+
+.produtos-div{
+    text-align: center;
+}
