@@ -47,3 +47,15 @@ body {
 .confeitaria-titulo{
     padding: 24px 0;
 }
+
+.produtos-imagem{
+    width: 200px;
+}
+
+.produto-icone{
+    width: 30px;
+}
+
+.produtos-div{
+    text-align: center;
+}
