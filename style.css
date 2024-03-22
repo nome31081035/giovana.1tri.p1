@@ -59,3 +59,13 @@ body {
 .produtos-div{
     text-align: center;
 }
+
+.produtos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.produtos-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
