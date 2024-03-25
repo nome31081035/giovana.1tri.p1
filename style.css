@@ -69,3 +69,14 @@ body {
     text-align: center;
     padding: 24px 0;
 }
+
+.rodape{
+    background-color: bisque;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 100px;
+    padding: 12px 0;
+    
+}
