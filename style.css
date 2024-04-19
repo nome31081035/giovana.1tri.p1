@@ -8,7 +8,7 @@ body {
 }
 
 .cabecalho{
-    background-image: linear-gradient(rgb(168, 239, 248), rgb(213, 250, 255), rgb(232, 248, 250));
+    background-image: linear-gradient(rgb(138, 228, 240), rgb(155, 237, 248), rgb(201, 246, 252));
     color:rgb(41, 20, 4);
     display: flex;
     justify-content: space-around;
@@ -32,7 +32,7 @@ body {
 }
 
 .confeitaria{
-    background-image: linear-gradient(rgb(248, 210, 161),rgb(248, 210, 161),rgb(248, 193, 232),rgb(255, 160, 227));
+    background-image: linear-gradient(rgb(201, 246, 252),rgb(213, 250, 255),rgb(213, 250, 255));
     color: rgb(41, 20, 4);
     display: flex;
     justify-content: center;
@@ -49,6 +49,7 @@ body {
 }
 
 .produtos{
+    background-image: linear-gradient(rgb(213, 250, 255),rgb(213, 250, 255), rgb(168, 239, 248));
     padding: 24px 0;
 }
 
@@ -71,17 +72,18 @@ body {
 
 .produtos-titulo{
     text-align: center;
+border-style: double;
     padding: 24px 0;
 }
 
 .rodape{
-    background-color: bisque;
+    background-image: linear-gradient( rgb(168, 239, 248), rgb(138, 228, 240));
     text-align: center;
 }
 
 .rodape-imagem{
     height: 100px;
-    padding: 12px 0;
+    padding: 24px 0;
     
 }
 
@@ -90,7 +92,6 @@ body {
 
 
 
-
-//background-image: linear-gradient(rgb(255, 160, 227), rgb(248, 193, 232), rgb(248, 210, 161));
+/*background-image: linear-gradient(rgb(255, 160, 227), rgb(248, 193, 232), rgb(248, 210, 161));
 //confeitaria{
    // background-image: linear-gradient(rgb(248, 210, 161),rgb(248, 210, 161),rgb(248, 193, 232),rgb(255, 160, 227));
