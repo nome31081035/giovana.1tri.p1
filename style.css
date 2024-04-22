@@ -8,7 +8,7 @@ body {
 }
 
 .cabecalho{
-    background-image: linear-gradient(rgb(255, 160, 165), rgb(252, 176, 189), rgb(255, 195, 232));
+    background-image: linear-gradient(rgb(255, 160, 165), rgb(252, 176, 189),rgb(255, 204, 240));
     color:rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -29,10 +29,11 @@ body {
 
 .confeitaria-imagem{
     width: 15%;
+    
 }
 
 .confeitaria{
-    background-image: linear-gradient(rgb(255, 195, 232));
+    background-image: linear-gradient(rgb(255, 204, 240),rgb(163, 238, 252));
     color: rgb(41, 20, 4);
     display: flex;
     justify-content: center;
@@ -45,6 +46,10 @@ body {
 }
 
 .confeitaria-titulo{
+    padding: 24px 0;
+}
+
+.confeitaria-titulo-dois{
     padding: 24px 0;
 }
 
@@ -72,7 +77,6 @@ body {
 
 .produtos-titulo{
     text-align: center;
-    text-decoration-color: blueviolet;
     padding: 24px 0;
 }
 
@@ -82,7 +86,7 @@ body {
 }
 
 .rodape-imagem{
-    height: 100px;
+    height: 120px;
     padding: 24px 0;
     
 }
