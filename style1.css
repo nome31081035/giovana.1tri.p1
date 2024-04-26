@@ -53,6 +53,14 @@ body {
     padding: 24px 0;
 }
 
+.confeitaria-texto-um{
+    font-size: 20px;
+}
+
+.confeitaria-texto-dois{
+    font-size: 20px;
+}
+
 .produtos{
     background-image: linear-gradient(rgb(163, 238, 252),rgb(255, 204, 240),rgb(252, 176, 189));
     padding: 24px 0;
